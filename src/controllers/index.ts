@@ -1,4 +1,4 @@
-import {PingController} from './ping';
+import { PingController } from './ping';
 import { ProdutoController } from './produto';
 import { EntradaProdutoController } from './entradaProduto';
 import { SaidaProdutoController } from './saidaProduto';
